@@ -9,6 +9,8 @@ public class Lambda1 {
 		    numbers.add(9);
 		    numbers.add(8);
 		    numbers.add(1);
-		    numbers.forEach((n) -> { System.out.println(n); });
+		    numbers.forEach((n) -> { 
+		    	System.out.println(n); 
+		    	});
 	    }
 }
