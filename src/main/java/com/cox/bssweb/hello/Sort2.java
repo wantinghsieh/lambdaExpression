@@ -2,10 +2,9 @@ package com.cox.bssweb.hello;
 
 import java.util.ArrayList;
 import java.util.Collections;
-import java.util.Comparator;
 
 import com.cox.bssweb.hello.common.Car;
-import com.cox.bssweb.hello.common.SortByYear;
+
 
 public class Sort2 {
 	public static void main(String[] args) { 
